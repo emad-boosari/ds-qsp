@@ -1,4 +1,4 @@
-# Hybrid Quantum State Preparation via Classical Compression and Quantum Decompression
+# DS-QSP: Dense-to-Sparse Quantum State Preparation via Reversible Classical Compression
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 A modular research framework for hybrid quantum state preparation using classical transform-domain compression techniques such as Fourier and Haar packet wavelet sparsification.
